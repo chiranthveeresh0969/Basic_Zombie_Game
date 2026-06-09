@@ -4,7 +4,7 @@ Zombie Knight
 
 How to Run
 - Download the ZombieKnight.7z file.
-- Extract the archive using 7-Zip.
+- Extract the archive using 7-Zip.(To Download 7-zip go to https://www.7-zip.org/)
 - Open the extracted folder.
 - Run main.exe.
 
